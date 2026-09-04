@@ -25,7 +25,7 @@ This project demonstrates seamless integration of:
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack 
 - **Frontend:** ReactJS  
 - **Backend:** FastAPI  
 - **Database:** PostgreSQL  
@@ -47,7 +47,7 @@ Follow these steps to set up the project in your local environment.
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/sangeetanandanvishal04/auto-form-filler.git
+git clone https://github.com/poonampoonia01/auto-form-filler.git
 ```
 
 ### **Backend Setup in VS Code**
