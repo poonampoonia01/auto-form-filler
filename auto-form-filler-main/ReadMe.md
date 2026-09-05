@@ -1,4 +1,4 @@
-# Auto Form Filler  
+# Auto Form Filler
 
 **Automatic resume-based form filling app using React, FastAPI, PostgreSQL, and AWS S3.**  
 ---
